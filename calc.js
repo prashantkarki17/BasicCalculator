@@ -133,3 +133,4 @@ parseFloat();
 str.slice(0, -1); //-1 is equivalent to str.length-1
 calculated.toString()  ;    //convert int,float to string
 */
+//hiiiii
